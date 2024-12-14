@@ -55,9 +55,9 @@ La ejecución de estos comandos no es obligatoria en el directorio predispuesto 
 2.1.1)Example pwd:
 
  ~ $ termux-setup-storage
- ~ $ cd storage/downloads/URL-X
- ~ $ pwd
-/data/data/com.termux/files/home/storage/downloads/URL-X
+ <p>~ $ cd storage/downloads/URL-X</p>
+ <p>~ $ pwd</p>
+<p>/data/data/com.termux/files/home/storage/downloads/URL-X</p>
 
 
  --> Ruta de almacenaje:
